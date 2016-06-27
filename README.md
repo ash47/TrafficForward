@@ -2,7 +2,7 @@
 An application that listens on a given port and forwards traffic to the given remote host and ip.
 
 ###Usage###
- - TrafficForward.exe <listenPort> <forwardHost> <forwardPort> [<listenIP>]
+ - TrafficForward.exe &lt;listenPort> <forwardHost> <forwardPort> [<listenIP>]
   - listenPort is the local port to listen on [required]
   - forwardHost is the remote host to forward TCP traffic to [required]
   - forwardPort is the remote port to forward TCP traffic to [required]
